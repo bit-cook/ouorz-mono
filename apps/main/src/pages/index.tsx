@@ -748,7 +748,7 @@ const Home: NextPageWithLayout = () => {
             serviceRole="Invited Reviewer"
             serviceType="Journal"
             serviceTypeColor="border-l-red-400! border-l-4"
-            serviceTitle="IEEE Transactions on Knowledge and Data Engineering"
+            serviceTitle="IEEE Transactions on Knowledge and Data Engineering (TKDE)"
           />
           <ServiceCard
             serviceRole="Program Committee Member"
